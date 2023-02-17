@@ -1,4 +1,8 @@
-### Hi there 👋
+I'm Clémentine ✨, a research scientist @huggingface!
+
+Previously I worked on: graph transformers; the possible alliances between neural networks and historical linguistics; programming for geologic modeling.
+
+[![clefourrier's GitHub stats](https://github-readme-stats.vercel.app/api?username=clefourrier)](https://github.com/clefourrier/github-readme-stats)
 
 <!--
 **clefourrier/clefourrier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
