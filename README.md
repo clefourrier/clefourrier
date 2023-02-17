@@ -1,7 +1,12 @@
-I'm Clémentine ✨, a research scientist @huggingface!
+I'm Clémentine ✨, a research scientist in machine learning @huggingface!
 
-Previously I worked on: graph transformers; the possible alliances between neural networks and historical linguistics; programming for geologic modeling.
-Python is my friend. 
+Previously I worked on fun stuff: 
+- graph transformers (see my [Intro Blog](https://huggingface.co/blog/intro-graphml)); 
+- the possible alliances between neural networks and historical linguistics (see my [thesis](https://hal.inria.fr/tel-03793299) and [publications](https://scholar.google.com/citations?user=UiK-jPcAAAAJ&hl=en&authuser=1)); 
+- integrating software to predict Alzheimer for the Human Brain Project ([poster](https://hal.science/hal-02466386));
+- programming for geological modelling.
+
+Python is my friend 🐍. 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=clefourrier&theme=dark&background=000000)](https://git.io/streak-stats)
 
